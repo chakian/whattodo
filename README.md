@@ -17,3 +17,5 @@ Ayrıca
 - Chrome eklentisi olsun
 - Android uygulaması olsun
 - Android wear uyumlu olsun
+
+evet
